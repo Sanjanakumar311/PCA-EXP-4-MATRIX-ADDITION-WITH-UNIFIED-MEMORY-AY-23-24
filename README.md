@@ -139,7 +139,7 @@ int main()
 
 ## OUTPUT:
 
-https://youtu.be/PjIdrNKNQi8?si=ALRd3uyscWwlwCgi
+https://youtu.be/VOmyUTDRbs0?si=1zbw2PPhDi8vPEdg
 
 ## RESULT:
 Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more_______________time.
